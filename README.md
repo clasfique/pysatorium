@@ -26,24 +26,24 @@ layout:
 
 ***
 
-{% content-ref url="/broken/pages/ZY2oI0ox5QYxfRWIgEZm" %}
-[Broken link](/broken/pages/ZY2oI0ox5QYxfRWIgEZm)
+{% content-ref url="https://app.gitbook.com/s/LLl000i67KGKwOSksC0s/poetry-in-english" %}
+[POETRY IN ENGLISH](https://app.gitbook.com/s/LLl000i67KGKwOSksC0s/poetry-in-english)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/uoW8sIhU0LlkSToKg20G" %}
-[Broken link](/broken/pages/uoW8sIhU0LlkSToKg20G)
+{% content-ref url="https://app.gitbook.com/s/LLl000i67KGKwOSksC0s/poetyka-na-ukrainskiy" %}
+[ПОЕЗІЯ НА УКРАЇНСЬКІЙ](https://app.gitbook.com/s/LLl000i67KGKwOSksC0s/poetyka-na-ukrainskiy)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/n9B1Xi6uGv1yDzv1LUpG" %}
-[Broken link](/broken/pages/n9B1Xi6uGv1yDzv1LUpG)
+{% content-ref url="https://app.gitbook.com/s/LLl000i67KGKwOSksC0s/poezija-po-hrvatsku" %}
+[POEZIJA PO HRVATSKU](https://app.gitbook.com/s/LLl000i67KGKwOSksC0s/poezija-po-hrvatsku)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/vRjfHdGd25zPZVeRAN7F" %}
-[Broken link](/broken/pages/vRjfHdGd25zPZVeRAN7F)
+{% content-ref url="https://app.gitbook.com/s/LLl000i67KGKwOSksC0s/poezja-po-polsku" %}
+[POEZJA PO POLSKU](https://app.gitbook.com/s/LLl000i67KGKwOSksC0s/poezja-po-polsku)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/FrPlEgUfFxmOkXGfUNoB" %}
-[Broken link](/broken/pages/FrPlEgUfFxmOkXGfUNoB)
+{% content-ref url="https://app.gitbook.com/s/LLl000i67KGKwOSksC0s/special-poetry-2022-2023" %}
+[SPECIAL POETRY(2022-2023)](https://app.gitbook.com/s/LLl000i67KGKwOSksC0s/special-poetry-2022-2023)
 {% endcontent-ref %}
 
 ***
